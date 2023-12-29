@@ -17,4 +17,3 @@ class Geni < Formula
     assert_predicate testpath/"test.sqlite", :exist?, "failed to create test.sqlite"
   end
 end
-
