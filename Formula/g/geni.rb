@@ -1,8 +1,8 @@
 class Geni < Formula
   desc "Database CLI migration tool"
   homepage "https://github.com/emilpriver/geni"
-  url "https://github.com/emilpriver/geni/archive/refs/tags/v0.0.11.tar.gz"
-  sha256 "852364a9912953cc3a89a46ecf6d06d2d74a1fa564f62d46bc6622d4a7151b63"
+  url "https://github.com/emilpriver/geni/archive/refs/tags/.tar.gz"
+  sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
   license "MIT"
 
   depends_on "rust" => :build
